@@ -1,5 +1,5 @@
 # Decentralized Learning for Cancer Analysis
-Medical data generated at Hospitals and Research centers cannot leave its place of origin due to privacy norms. With Edge Computing and a decentralised approach, the data will never leave the device and it utilises the processing power of the individual edge devices. For this, we utilize Swarm Learning.
+Medical data generated at Hospitals and Research centers cannot leave its place of origin due to privacy norms. With Edge Computing and a decentralised approach, the data will never leave the device and it utilises the processing power of the individual edge devices. For this, we utilize open source Swarm Learning.
 
 #### SL Architecture - 
 
